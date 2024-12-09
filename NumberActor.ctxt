@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NumberActor
+comment1.params=value
+comment1.target=NumberActor(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkDrop()
+comment4.params=
+comment4.target=int\ getValue()
+numComments=5

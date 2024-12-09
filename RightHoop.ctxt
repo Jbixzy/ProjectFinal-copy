@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RightHoop
+comment1.params=
+comment1.target=RightHoop()
+comment2.params=value
+comment2.target=void\ addToHoop(int)
+comment3.params=
+comment3.target=java.util.ArrayList\ getContents()
+comment4.params=
+comment4.target=void\ clearContents()
+numComments=5
